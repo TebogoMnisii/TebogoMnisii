@@ -1,10 +1,13 @@
 # Hi, I'm Tebogo 👨‍💻  
 **Founder of QuantWise | Quantitative Developer | Data Scientist | Algorithmic Trading Specialist**
 
+I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **QuantWise**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
+
 <div align="center">
   
-[![QuantWise Demo](https://img.shields.io/badge/🚀_QuantWise_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://quantwise.streamlit.app/))
+[![QuantWise Demo](https://img.shields.io/badge/🚀_QuantWise_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://quantwise.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](www.linkedin.com/in/tebogo-july)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat)](mailto:troxytebogo@gmail.com)
 
 
 </div>
@@ -91,4 +94,11 @@ Dynamic programming tool to quantize FICO scores using:
 
 ---
 
-📩 Email: troxytebogo@gmail.com 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+

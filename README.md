@@ -1,11 +1,11 @@
 # Hi, I'm Tebogo 👨‍💻  
-**Founder of QuantWise | Quantitative Developer | Data Scientist | Algorithmic Trading Specialist**
+**Founder of AureusQuant | Quantitative Developer | Data Scientist | Algorithmic Trading Specialist**
 
-I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **QuantWise**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
+I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **AureusQuant**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
 
 <div align="center">
   
-[![QuantWise Demo](https://img.shields.io/badge/🚀_QuantWise_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://quantwise.streamlit.app/)
+[![QuantWise Demo](https://img.shields.io/badge/🚀_QuantWise_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://aureusquant.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](www.linkedin.com/in/tebogo-july)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat)](mailto:troxytebogo@gmail.com)
 
@@ -18,7 +18,7 @@ I'm a BCom Statistics and Data Science student at the University of Pretoria wit
 - **Financial Backtesting Systems**
 - **Cryptocurrency Trading Infrastructure**
 
-## 🚀 QuantWise - Founder & Lead Architect
+## 🚀 AureusQuant - Founder & Lead Architect
 > **Open-source quantitative finance platform delivering institutional-grade analytics**
 
 **Mission:** Democratizing professional quant tools for independent analysts and traders  
@@ -34,7 +34,7 @@ Real-time cryptocurrency market-making engine with spread optimization and risk 
 - Real-time execution simulator  
 - Risk throttling and position exposure limits  
 
-### 💼 QuantWise Core (SaaS)
+### 💼AureusQuant (SaaS)
 SaaS version of institutional-grade quant tools for retail users and fintech startups.
 
 - User Authentication System (JWT-based)  

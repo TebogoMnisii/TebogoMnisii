@@ -5,7 +5,7 @@ I'm a BCom Statistics and Data Science student at the University of Pretoria wit
 
 <div align="center">
   
-[![QuantWise Demo](https://img.shields.io/badge/🚀_QuantWise_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://aureusquant.streamlit.app/)
+[![QuantWise Demo](https://img.shields.io/badge/🚀_AureusQuant_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://aureusquant.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](www.linkedin.com/in/tebogo-july)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat)](mailto:troxytebogo@gmail.com)
 

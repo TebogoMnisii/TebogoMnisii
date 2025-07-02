@@ -12,11 +12,25 @@ I'm a BCom Statistics and Data Science student at the University of Pretoria wit
 
 </div>
 
-## 🔭 Core Expertise
-- **Derivatives Pricing Models** (Black-Scholes, Monte Carlo)
-- **Algorithmic Trading Strategies** (Market Making, Technical Indicators)
-- **Financial Backtesting Systems**
-- **Cryptocurrency Trading Infrastructure**
+### 🔬 Data Science Expertise
+
+- Predictive Modeling (Classification, Regression, Time Series)
+- Supervised & Unsupervised Learning (Random Forest, K-Means, PCA)
+- SHAP, Model Explainability & Feature Importance
+- Credit Risk Scoring & Bucketing Optimization
+- Statistical Modeling (GLMs, GARCH, ARIMA)
+
+---
+
+### 📈 Quantitative Finance Expertise
+
+- Derivatives Pricing (Black-Scholes, Monte Carlo)
+- Algorithmic Trading (SMA, RSI, MACD, Market Making)
+- Portfolio Optimization (Mean-Variance, CVaR)
+- Risk Metrics (Sharpe Ratio, Drawdown, VaR)
+- Backtesting Systems with Custom Strategies
+
+---
 
 ## 🚀 AureusQuant - Founder & Lead Architect
 > **Open-source quantitative finance platform delivering institutional-grade analytics**

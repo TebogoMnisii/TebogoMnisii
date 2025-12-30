@@ -1,7 +1,7 @@
 # Hi, I'm Tebogo 👨‍💻  
-**Founder of AureusQuant | Quantitative Developer | Data Scientist | Algorithmic Trading Specialist**
+**Founder of Aureus capital intelligence| Quantitative Developer | Data Scientist | Financialmodeling**
 
-I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **AureusQuant**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
+I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **Aureus capitalintelligence**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
 
 <div align="center">
   

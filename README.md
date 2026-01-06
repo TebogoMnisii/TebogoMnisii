@@ -1,110 +1,152 @@
-# Hi, I'm Tebogo 👨‍💻  
-**Founder of Aureus capital intelligence| Quantitative Developer | Data Scientist | Financialmodeling**
+# 👨‍💻 Hi, I'm Tebogo Mnisi  
+**Data Scientist | Quantitative & Financial Analyst | Credit Risk, Actuarial & Fraud Analytics | Founder – Aureus Capital Intelligence (Demo)**
 
-I'm a BCom Statistics and Data Science student at the University of Pretoria with a major in Informatics. I'm passionate about building data-driven systems that merge machine learning, quantitative finance, and software engineering. As the founder of **Aureus capitalintelligence**, I’m developing institutional-grade tools—like derivatives pricing engines, lending risk models, and portfolio optimization apps—to empower retail investors and informal lenders. I specialize in Python, FastAPI, React, Streamlit, Docker, SQL, AWS, CUDA, and a wide range of financial modeling libraries (CVXPY, GARCH, Monte Carlo methods). My work focuses on making advanced trading analytics and alternative credit scoring more accessible through intelligent software.
+I am a data-driven analyst and quantitative developer with a strong foundation in **statistics, data science, and financial analytics**, and practical experience applying these skills to **credit risk, actuarial calculations, fraud detection, and quantitative finance problems**.
+
+I hold academic training in **Statistics, Data Science, and Informatics** from the **University of Pretoria**, and I focus on building **analytical systems and models** that transform complex data into **actionable insights** for **risk management, pricing, lending decisions, and portfolio analysis**.
+
+I am the founder of **Aureus Capital Intelligence (demo-stage)** — a developing analytics platform used to demonstrate applied **data science, actuarial modeling, and quantitative finance techniques**. The project is currently in **prototype/demo phase** and serves as a technical portfolio rather than a commercial product.
+
+---
 
 <div align="center">
-  
-[![QuantWise Demo](https://img.shields.io/badge/🚀_AureusQuant_Beta-Live_Demo-4facfe?style=flat&logo=streamlit)](https://aureusquant.streamlit.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](www.linkedin.com/in/tebogo-july)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat)](mailto:troxytebogo@gmail.com)
 
+[![Aureus Demo](https://img.shields.io/badge/🚀_Aureus_Capital_Intelligence-Demo-4facfe?style=flat&logo=streamlit)](https://aureusquant.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/tebogo-july)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=flat)](mailto:troxytebogo@gmail.com)
 
 </div>
 
-### 🔬 Data Science Expertise
+---
+
+## 🎓 Education
+
+**University of Pretoria**  
+**BCom – Statistics & Data Science**, with Informatics  
+Relevant focus areas:
+- Statistical Modeling & Inference  
+- Data Science & Machine Learning  
+- Financial & Risk Analytics  
+- Optimization & Quantitative Methods  
+
+---
+
+## 🔬 Data Science & Analytics
 
 - Predictive Modeling (Classification, Regression, Time Series)
-- Supervised & Unsupervised Learning (Random Forest, K-Means, PCA)
-- SHAP, Model Explainability & Feature Importance
-- Credit Risk Scoring & Bucketing Optimization
-- Statistical Modeling (GLMs, GARCH, ARIMA)
+- Feature Engineering & Model Validation
+- Supervised & Unsupervised Learning
+- Explainable ML (SHAP, Feature Importance)
+- Statistical Modeling (GLMs, ARIMA, GARCH)
+- Data Wrangling, Analysis & Visualization
 
 ---
 
-### 📈 Quantitative Finance Expertise
+## 📊 Credit Risk, Actuarial & Financial Analytics
 
-- Derivatives Pricing (Black-Scholes, Monte Carlo)
-- Algorithmic Trading (SMA, RSI, MACD, Market Making)
+- Credit Risk Scoring & Segmentation
+- Scorecard Bucketing & Threshold Optimization
+- Probability of Default (PD), LGD & EAD Modeling
+- Actuarial Calculations (Premiums, Reserves, Present Value)
+- Survival & Loss Distribution Modeling
+- Portfolio Risk Metrics (VaR, CVaR, Drawdown)
+
+---
+
+## 🚨 Fraud Detection & Risk Monitoring
+
+- Transaction-level Fraud Detection Models
+- Anomaly Detection (Isolation Forest, Statistical Rules)
+- Behavioral Pattern Analysis
+- Class Imbalance Handling (SMOTE, Cost-Sensitive Learning)
+- Explainable Models for Audit & Compliance
+
+---
+
+## 📈 Quantitative Finance (Applied)
+
+- Derivatives Pricing (Black–Scholes, Monte Carlo)
 - Portfolio Optimization (Mean-Variance, CVaR)
-- Risk Metrics (Sharpe Ratio, Drawdown, VaR)
-- Backtesting Systems with Custom Strategies
+- Strategy Backtesting & Performance Evaluation
+- Market Data Analysis & Time-Series Modeling
 
 ---
 
-## 🚀 AureusQuant - Founder & Lead Architect
-> **Open-source quantitative finance platform delivering institutional-grade analytics**
+## 🚀 Aureus Capital Intelligence (Demo)
+**Founder | Data Scientist | Quantitative & Risk Analyst**
 
-**Mission:** Democratizing professional quant tools for independent analysts and traders  
+> **Demo-stage analytics platform for financial, credit, actuarial, and fraud risk modeling**
 
-## 🏆 Featured Projects
+**Goal:**  
+To demonstrate how **data science, statistics, actuarial methods, and quantitative finance** can be applied to **pricing, fraud detection, lending decisions, and investment analysis**, with a focus on transparency and explainability.
 
-### ⚡ Crypto HFT Market Maker
-Real-time cryptocurrency market-making engine with spread optimization and risk controls.
+---
 
-- Binance WebSocket integration  
-- Order book dynamics modeling  
-- Volatility-aware bid/ask adjustment  
-- Real-time execution simulator  
-- Risk throttling and position exposure limits  
+## 🏆 Selected Projects
 
-### 💼AureusQuant (SaaS)
-SaaS version of institutional-grade quant tools for retail users and fintech startups.
+### 📊 Credit Risk Scoring & Bucketing Optimizer
+- Built scorecard models using statistical loss functions
+- Optimized score bands using MSE and log-likelihood
+- Applied SHAP for model explainability
+- Generated lender-focused analytical reports
 
-- User Authentication System (JWT-based)  
-- Real-time market data sync  
-- Interactive dashboards (Streamlit + Chart.js)  
-- Portfolio and risk analytics  
-- GPU-accelerated simulations (Numba/CUDA)  
+### 🧮 Actuarial Pricing & Valuation Calculator
+- Implemented present value, premium, and reserve calculations
+- Modeled loss distributions and expected claims
+- Applied survival analysis techniques
+- Scenario and sensitivity testing for pricing assumptions
 
-### 📊 Lending Risk Scoring App
-Alternative credit intelligence platform for informal lending markets.
+### 🚨 Fraud Detection & Anomaly Analytics
+- Built supervised fraud classification models
+- Applied anomaly detection for unknown fraud patterns
+- Designed explainable outputs for audit review
+- Evaluated precision–recall tradeoffs under imbalance
 
-- Behavioral + financial footprint models  
-- Income, rent, employment features  
-- SHAP explanations for transparency  
-- FastAPI backend + React frontend  
-- CSV batch upload + PDF reports for lenders  
+### 📈 Portfolio Optimization & Risk Analytics
+- Implemented mean-variance and CVaR optimization
+- Evaluated risk-adjusted portfolio performance
+- Performed Monte Carlo scenario simulations
 
-### 📉 FICO Bucketing Optimizer
-Dynamic programming tool to quantize FICO scores using:
+### ⚡ Market Microstructure Research
+- Modeled order book dynamics using real-time crypto data
+- Analyzed bid–ask spread behavior under volatility
+- Built research-focused backtesting tools
 
-- Mean Squared Error (MSE) loss  
-- Log-likelihood optimization  
-- Customizable threshold constraints
+---
 
 ## 🛠️ Technical Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-GPU-76B900?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numba-00A3E0?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CVXPY-8C1C13?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-16A085?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-FF5733?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-Statistics-2C5BB4?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-Explainability-FF5733?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVXPY-Optimization-8C1C13?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazon-aws&logoColor=white" />
 </p>
 
-## Founder's Vision
-> "As a quantitative developer working with hedge funds, I saw firsthand how institutional-grade tools were inaccessible to independent analysts. QuantWise aims to democratize these capabilities through open-source principles and modern cloud architecture."
+---
 
-## 💬 Open to Collaboration
+## 📚 Professional Development & Online Coursework
 
-- Enhancing risk modeling features  
-- Creating educational quant content  
-- Expanding market data integrations  
-- Improving UI/UX for advanced workflows  
+- Financial Engineering & Risk Modeling (Online)
+- Actuarial Mathematics & Loss Models (Online)
+- Machine Learning & Applied Data Science (Online)
+- Quantitative Finance & Portfolio Theory (Online)
+- SQL, Cloud Computing & Data Engineering Fundamentals
+
+---
+
+## 💬 Open to Opportunities
+
+- Data Scientist / Data Analyst
+- Credit Risk, Actuarial & Fraud Analytics
+- Quantitative / Risk Analyst Roles
+- Financial Services, FinTech & Consulting Teams
 
 ---
 
@@ -115,4 +157,3 @@ Dynamic programming tool to quantize FICO scores using:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TebogoMnisii&layout=compact&theme=tokyonight" />
 </p>
-

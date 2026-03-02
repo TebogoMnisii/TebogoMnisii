@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Tebogo Mnisi  
-**Data Scientist | Quantitative & Financial Analyst | Credit Risk, Actuarial & Fraud Analytics | Founder – Aureus Capital Intelligence (Demo)**
+**Data Scientist | Quantitative & Financial Analyst | Credit Risk, Actuarial & Fraud Analytics | 
 
 I am a data-driven analyst and quantitative developer with a strong foundation in **statistics, data science, and financial analytics**, and practical experience applying these skills to **credit risk, actuarial calculations, fraud detection, and quantitative finance problems**.
 

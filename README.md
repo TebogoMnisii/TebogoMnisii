@@ -5,7 +5,6 @@ I am a data-driven analyst and quantitative developer with a strong foundation i
 
 Completing Degree in **Statistics, Data Science, and Informatics** from the **University of Pretoria**, and I focus on building **analytical systems and models** that transform complex data into **actionable insights** for **risk management, pricing, lending decisions, and portfolio analysis**.
 
-I am the founder of **Aureus Capital Intelligence (demo-stage)** — a developing analytics platform used to demonstrate applied **data science, actuarial modeling, and quantitative finance techniques**. The project is currently in **prototype/demo phase** and serves as a technical portfolio rather than a commercial product.
 
 ---
 
